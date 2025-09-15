@@ -2,6 +2,20 @@
 
 #OPERASI DAN MANIPULASI STRING
 
+# materi 
+#====================================================================================================================
+# penggabungan + penggabungan + 
+# + " " + string kosong
+# indexing [0] dan kebalikan [-0]
+# Menghitung panjang string menggunakan len(nama_lengkap)
+# Mengecek karakter menggunakan in dan not in
+# mengulang string menggunakan print("wk"*20)
+# ASCII code menggunakan str() chr() tergantung tipe data
+# menentukan item min(nama_lengkap) dan max(nama_lengkap) menentukan abc tertinggi dalam variabel min = terkecil max = terbesar
+# Operator method menggunakan count("contoh abc")
+#====================================================================================================================
+
+
 
 # (1. Menyambung string (concatenate))
 nama_pertama = "ucup"
