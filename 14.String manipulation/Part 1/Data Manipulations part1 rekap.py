@@ -11,7 +11,7 @@
 # 8. Mengecek banyak nya string salah satu abcd dan membuat variabel baru # misal variabel_bebas = "halo oi otong "
 # gabungan = count.variabel_bebas("o") maka akan mengecek huruf o ada berapa maka itu adalah output nya
 # =====================================================================================================================================================
-
+#
 
 nama_awal = "Muhammad"
 nama_tengah = "Raditya"
