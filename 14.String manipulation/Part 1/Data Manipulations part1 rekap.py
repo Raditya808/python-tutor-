@@ -1,3 +1,18 @@
+# =====================================================================================================================================================
+# 1. Menggunakan ''' sebagai komentar '''
+# 2. Menghitung string menggunakan variabel baru dengan penggabungan = len(nama_lengkap) / menghitung jumlah karakter yang ada di variabel nama
+# 3. Indexing, Mengeluarkan satu output menggunakan nama_lengkap[0]
+# 4. Mengecek output abcd didalam variabel / mengecek output abcd yang tidak ada di nama_lengkap menghasilkan nilai boolean
+#    membuat variabel baru a = "a"
+#    Menggunakan in atau not in contoh a in nama_lengkap / a not in nama_lengkap 
+# 5. Mengeluarkan output paling besar / Paling kecil dalam abcd menggunakan min(nama_lengkap) dan max(nama_lengkap)
+# 6. ASCII kode menggunakan menggunakan str jika datanya ord(" ") spasi kosong / menggunakan chr jika data nya integer
+# 7. Mengulang string ("tes"*20) maka akan Mengeluarkan output tes 20 kali
+# 8. Mengecek banyak nya string salah satu abcd dan membuat variabel baru # misal variabel_bebas = "halo oi otong "
+# gabungan = count.variabel_bebas("o") maka akan mengecek huruf o ada berapa maka itu adalah output nya
+# =====================================================================================================================================================
+
+
 nama_awal = "Muhammad"
 nama_tengah = "Raditya"
 nama_akhir = "Ramadhan"
@@ -140,7 +155,7 @@ print("data 117 = " + chr(data))
 print(chr(data))
 print("=============================================")
 
-print("Menghitung seberapa banyak variiabel menggunakan count(_variiabel) dan str(_variiabel baru)")
+print("Menghitung seberapa banyak variiabel menggunakan count(_variabel) dan str(_variabel baru)")
 random = "botong lontong acong kingkong hentong"
 print("Macam macam o didalam = " + random)
 jumlah = random.count("o")
