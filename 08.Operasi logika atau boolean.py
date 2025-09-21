@@ -1,6 +1,6 @@
 # operasi bolean
 
-# or , and, xor
+# not , or , and , xor
 
 print("----------not-------")
 a = False
