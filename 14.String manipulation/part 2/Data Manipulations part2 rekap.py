@@ -14,19 +14,19 @@
 # center() rata tengah 
 # strip() Menghilangkan karakter tergantung ("")
 
-
+print("---------------------------------------------")
 # upper ()
-print("\nupper()")
+print("\nupper()\n")
 nama1 = "Radit"
 upper = nama1.upper() # hasil nya akan menjadi kapital
 print(upper)
 
 # lower()
-print("\nlower()")
+print("\nlower()\n")
 nama2 = "RADIT"
 lower = nama2.lower()
 print(lower)
-
+print("---------------------------------------------")
 # Mengecek karakter tersebut memiliki kapital atau normal 
 # Menggunakan isupper
 # menggunakan islower()
@@ -51,6 +51,7 @@ print("\nislower()\n")
 # islower()
 nama1 = "radit"
 islower_normal = nama1.islower()
+print("---------------------------------------------")
 print(nama1 + " islower huruf kecil semua = " + str(islower_normal))
 print("---------------------------------------------")
 # islower() salah satu kapital 
