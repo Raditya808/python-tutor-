@@ -14,7 +14,7 @@
 # variabel.istitle() <- Judul yang harus diawali huruf kapital kek di film
 # variabel.startswith() <- Pengecekan awal kata 
 # variabel.endswith() <- pengecekan kata akhir
-# variabel.join() penggabungan menggunakan '' dengan karakter apapun
+# variabel.join() menghilangkan list '' dengan karakter apapun harus dalam keadaan list  
 # variabel.split() membuat suatu list
 # variabel.rjust() dengan print("'"+"'") membuat rata kiri dengan string 
 # variabel.ljust() dengan print("'"+"'") membuat rata kanan dengan string
