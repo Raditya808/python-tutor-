@@ -19,6 +19,7 @@
 # variabel.rjust() dengan print("'"+"'") membuat rata kiri dengan string 
 # variabel.ljust() dengan print("'"+"'") membuat rata kanan dengan string
 # menghilangkan karakter menggunakan strip() dengan print("'"+kanan+"'")
+# strip() menghilangkan karakter suatu variabel + = dll 
 
 # bagian bawah ini belum 
 # isalpha() <- untuk mengecek apakah huruf semua
