@@ -24,7 +24,7 @@ print(a)
 
 # kode ini berfungsi untuk consol kode diatas hanya contoh dibuat 
 
-#class A:
+# class A:
 #    'INI CLASS A'
 #     attr = 'ini attr'
 #     def function(self):
