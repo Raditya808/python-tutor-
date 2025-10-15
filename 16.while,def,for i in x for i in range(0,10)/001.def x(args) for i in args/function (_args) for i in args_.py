@@ -8,7 +8,9 @@ def f2(*args):
     for i in args:
         print(i)
 a1 = "bahasa python","pembuuat","Guuido van rosuum"
-f2(a1)
+
+f2(a1) # dan pembuatan variabel harus seperti ini tidak dengan f2 =(a1) dan di ikuti nama function 
+print(f2) # output akan menjadi sebuah list() 
 
 print("="*50)
 
