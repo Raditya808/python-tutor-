@@ -24,7 +24,9 @@ print(f'umur anda = {umuranda} Tahun {sisa_bulan} Bulan')
 
 
 
-
+# DALAM PYTHON URUTAN UNTUK INPUT TANGGAL LAHIR SUDAH ADA DI CEK SYNTAX 
+# dt.date.today() 
+# 2005,10,17 DIMULAI TAHUN BULAN DAN TANGGAL
 
 
 
@@ -63,7 +65,7 @@ print('Hari dari hari ini ke hari di tanggal lahir = ',hari_nya)
 
 # Mengecek umur 
 umur = (hari_nya.days // 365) # days disini berfungsi untuk mendapatkan output dalam bentuk integer 
-sisa_bulan = (hari_nya.days % 365) // 30 
+sisa_bulan = (hari_nya.days % 365) // 30  # selalu ingat days untuk konfersi hari dan angka menjadi angka saja
 print('anda berumur',umur,'Tahun dan',sisa_bulan,'Bulan')
 
 
